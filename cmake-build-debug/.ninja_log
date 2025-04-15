@@ -1,0 +1,15 @@
+# ninja log v6
+2	63	1744730677534402132	build.ninja	933197041d9d5e22
+7	910	1744718555328200511	CMakeFiles/Group_Project_Spring.dir/Boss.cpp.o	36fe6ca67bd10264
+7	908	1744718555328347179	CMakeFiles/Group_Project_Spring.dir/Army.cpp.o	b3c5a24d7d07aab6
+7	926	1744718555328056968	CMakeFiles/Group_Project_Spring.dir/Monster.cpp.o	e618769cf566e8d8
+6	927	1744718555327923884	CMakeFiles/Group_Project_Spring.dir/Hero.cpp.o	887483df583aec1a
+6	910	1744718555327776591	CMakeFiles/Group_Project_Spring.dir/Creature.cpp.o	303e03ea02d104c2
+6	938	1744718555327555131	CMakeFiles/Group_Project_Spring.dir/main.cpp.o	39747c0cfd9774d0
+2	78	1744730677534402132	build.ninja	933197041d9d5e22
+3	563	1744730677545755122	CMakeFiles/Group_Project_Spring.dir/Boss.cpp.o	36fe6ca67bd10264
+2	569	1744730677545163749	CMakeFiles/Group_Project_Spring.dir/main.cpp.o	39747c0cfd9774d0
+3	569	1744730677545387040	CMakeFiles/Group_Project_Spring.dir/Hero.cpp.o	887483df583aec1a
+3	570	1744730677545540414	CMakeFiles/Group_Project_Spring.dir/Monster.cpp.o	e618769cf566e8d8
+3	597	1744730677546142787	CMakeFiles/Group_Project_Spring.dir/Army.cpp.o	b3c5a24d7d07aab6
+597	657	1744730678139828485	Group_Project_Spring	2f5fe9233e45ec5a
